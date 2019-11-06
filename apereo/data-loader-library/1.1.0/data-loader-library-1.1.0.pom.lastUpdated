@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Nov 06 10:52:17 MST 2019
+https\://repo.maven.apache.org/maven2/.lastUpdated=1573062737364
+http\://repo.spring.io/release/.lastUpdated=1573062736222
+https\://raw.github.com/Apereo-Learning-Analytics-Initiative/maven-repo/master/.lastUpdated=1573062737171
+http\://repo.spring.io/release/.error=
+https\://raw.github.com/Apereo-Learning-Analytics-Initiative/maven-repo/master/.error=
+https\://repo.maven.apache.org/maven2/.error=
